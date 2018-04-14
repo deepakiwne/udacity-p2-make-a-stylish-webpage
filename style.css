@@ -4,7 +4,7 @@
 
 @font-face{
   font-family: 'GothamHTF-Book';
-  src: local('GothamHTF-Book'), url('GothamHTF-Book.woff') format('woff');
+  src: local('GothamHTF-Book'), url('fonts/GothamHTF-Book.woff') format('woff');
 }
 
 body{
